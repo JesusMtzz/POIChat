@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "941967580659",
+    "firebase_url": "https://prueba-cf670-default-rtdb.firebaseio.com",
+    "project_id": "prueba-cf670",
+    "storage_bucket": "prueba-cf670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941967580659:android:87ca826362275b7fdd8686",
+        "android_client_info": {
+          "package_name": "com.fcfm.poi.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941967580659-74llp9c9bjf8fkd5uaict2vicrtbc1hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnX_0Mcj03_mlpX6STfc9pjo5mJt6we7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941967580659-74llp9c9bjf8fkd5uaict2vicrtbc1hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
