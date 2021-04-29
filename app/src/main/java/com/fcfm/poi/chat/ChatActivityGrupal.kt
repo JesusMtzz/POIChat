@@ -16,7 +16,7 @@ class ChatActivityGrupal : AppCompatActivity() {
     private lateinit var nombreUsuario: String
 
     private val database = FirebaseDatabase.getInstance()
-    private val chatRef = database.getReference("chats")
+    private val chatRef = database.getReference("chatGrupal") //Aqui pondremod despues de chatgrupal el id del chat grupal y despues la ruta mensajes(tendra otra ruta para los miembros del chat grupal)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
